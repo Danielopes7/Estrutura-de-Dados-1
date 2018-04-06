@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1523023120 source:c:\users\daniel lopes\desktop\anselmo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cofo.h"
+
+1523023232 c:\users\daniel lopes\desktop\anselmo\cofo.h
+
