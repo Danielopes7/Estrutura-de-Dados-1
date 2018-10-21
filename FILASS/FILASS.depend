@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523456297 source:c:\users\daniel lopes\desktop\filass\filas.c
+	<stdio.h>
+	<stdlib.h>
+	"filas.h"
+
+1523456279 c:\users\daniel lopes\desktop\filass\filas.h
+
+1523455911 source:c:\users\daniel lopes\desktop\filass\main.c
+	"filas.h"
+

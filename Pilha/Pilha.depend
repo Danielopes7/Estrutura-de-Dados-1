@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523755881 source:c:\users\daniel lopes\desktop\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhas.h"
+
+1524011940 source:c:\users\daniel lopes\desktop\pilha\pilhas.c
+	<stdio.h>
+	<stdlib.h>
+	"pilhas.h"
+
+1524011934 c:\users\daniel lopes\desktop\pilha\pilhas.h
+
